@@ -1,0 +1,34 @@
+.firstArea {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    display: inline-flex;
+    align-items: center;
+    padding-left: 50px;
+
+}
+
+.secondArea {
+    height: 100px;
+    width: 100px;
+    background-color: rgba(211, 199, 199, 0.952);
+    display: inline-flex;
+    align-items: center;
+    padding-left: 50px;
+}
+
+.thirdArea {
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-left: 25px;
+    padding-right: 25px;
+
+}
+
+.clickableBlue {
+    margin: 250px,50px,50px,50px;
+}
